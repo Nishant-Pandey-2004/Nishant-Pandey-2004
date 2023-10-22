@@ -79,6 +79,9 @@
   </a> 
 </p>
 
+
+[![An image of @nishantpandey2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishantpandey2004)](https://holopin.io/@nishantpandey2004)
+
 ## GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant-pandey-2004&show_icons=true&locale=en&layout=compact" alt="nishant-pandey-2004" /></p>
