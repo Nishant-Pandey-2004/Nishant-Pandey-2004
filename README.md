@@ -1,4 +1,4 @@
-![logo](https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg)
+![image](https://github.com/Nishant-Pandey-2004/Nishant-Pandey-2004/assets/113779980/9e484aff-fca4-43d5-8f42-7786cb93998f)![logo](https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
@@ -57,7 +57,7 @@
     <img src="https://www.cdnlogo.com/logos/j/86/java.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://openclipart.org/download/272343/1486640684.svg" alt="javascript" width="40" height="40"/> 
+    <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="40" height="40"/> 
   </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="linux" width="40" height="40"/> 
