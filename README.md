@@ -1,4 +1,4 @@
-![image](https://github.com/Nishant-Pandey-2004/Nishant-Pandey-2004/assets/113779980/9e484aff-fca4-43d5-8f42-7786cb93998f)![logo](https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg)
+![logo](https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg)
 
 <h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
