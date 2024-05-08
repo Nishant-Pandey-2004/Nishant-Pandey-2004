@@ -1,6 +1,8 @@
-![logo](https://inkerrobotics.com/blog/wp-content/uploads/2020/12/Coding-Courses-1.jpg)
+<p align="center"><img src="https://github.com/Nishant-Pandey-2004/Nishant-Pandey-2004/blob/main/readme.gif"></p>
 
-<h1 align="center">Hi 👋, I'm Nishant Pandey</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते,🙏🏻+I'm+Nishant+Pandey;" />
+</h1>
 <h3 align="center">A passionate IT Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
@@ -21,16 +23,8 @@
 
 ## Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/nishant-pandey-546989227/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="nishant pandey" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/yumcoder" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yumcoder" height="30" width="40" />
-  </a>
-</p>
-
+[![Linkedin: nishant](https://img.shields.io/badge/-nishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-pandey-546989227/)](https://www.linkedin.com/in/nishant-pandey-546989227/)
+![GitHub followers](https://img.shields.io/github/followers/nishant-pandey-2004?label=Follow&style=social)
 ## Languages and Tools
 
 <h3 align="left">Languages and Tools:</h3>
