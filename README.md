@@ -24,7 +24,8 @@
 ## Connect with Me
 
 [![Linkedin: nishant](https://img.shields.io/badge/-nishant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-pandey-546989227/)](https://www.linkedin.com/in/nishant-pandey-546989227/)
-![GitHub followers](https://img.shields.io/github/followers/nishant-pandey-2004?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/Nishant-Pandey-2004?label=Follow&style=social)](https://github.com/Nishant-Pandey-2004)
+
 ## Languages and Tools
 
 <h3 align="left">Languages and Tools:</h3>
