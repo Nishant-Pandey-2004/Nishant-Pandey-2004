@@ -1,9 +1,9 @@
 <p align="center"><img src="https://github.com/Nishant-Pandey-2004/Nishant-Pandey-2004/blob/main/readme.gif"></p>
 
-<h1 align="center">
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7A810&center=true&vCenter=true&width=500&height=70&duration=4000&lines=नमस्ते,🙏🏻+I'm+Nishant+Pandey;" />
-</h1>
-<h3 align="center">A passionate IT Engineer from India</h3>
+</h2>
+<h3 align="center">A passionate IT Engineer from India🌏</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 
