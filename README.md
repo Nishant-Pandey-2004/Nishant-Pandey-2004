@@ -83,7 +83,7 @@
 
 
 <!-- GitHub Stats -->
-![Nishant-Pandey-2004's Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Pandey-2004&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+![Nishant-Pandey-2004's Stats](https://github-readme-stats.vercel.app/api?username=Nishant-Pandey-2004&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 ![Nishant-Pandey-2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishant-Pandey-2004&theme=vision-friendly-dark&hide_border=true)
 ![Nishant-Pandey-2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant-Pandey-2004&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
